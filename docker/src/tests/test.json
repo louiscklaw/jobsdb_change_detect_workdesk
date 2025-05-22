@@ -1,0 +1,1 @@
+{"url":"https://www.youtube.com/@hkhoy/videos","wait_before_read_s":10,"replace_filter":["\n","^ +$","^.*ago$","^.*views$","^.*Now playing$","^•$","^\\d+:\\d+$","^\\d+:\\d+:\\d+$"]}
